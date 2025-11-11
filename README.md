@@ -31,5 +31,5 @@ HTML | CSS | JavaScript
 <pre>
 Developed by : Ritik R. Yadav  
 E-mail       : ritik.r.yadav0001@gmail.com  
-Play Here    : <a target="_blank" href="#">👉 Click Here</a> to play the game
+Play Here    : <a target="_blank" href="https://ritikydv1.github.io/Snake-Game/">👉 Click Here</a> to play the game
 </pre>
